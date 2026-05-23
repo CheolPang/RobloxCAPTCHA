@@ -36,10 +36,6 @@
 - **ngrok 실행**: `ngrok http 3000`을 실행하여 서버로의 보안 터널을 생성합니다. 이렇게 하면 Roblox 게임과 연결할 수 있는 공개 URL이 생성됩니다.  
   **Run Ngrok**: Execute `ngrok http 3000` to create a secure tunnel to your server. This will give you a public URL that can be used to connect with your Roblox games.
 
-### 8단계: 즐기기! / Step 8: Enjoy!
-- **테스트**: Roblox 게임을 실행하고 CAPTCHA 시스템이 제대로 작동하는지 확인합니다. 플레이어의 CAPTCHA 응답에 따라 올바르게 텔레포트되는지 테스트합니다.  
-  **Testing**: Launch your Roblox games and ensure that the CAPTCHA system is functioning as intended. Test the verification process to ensure players are correctly teleported based on their CAPTCHA response.
-
 ### GUI 요소 생성 및 테스트 / Create and Test GUI Elements
 - **스크립트에 맞게 GUI를 생성하고, 테스트하여 모든 요소가 올바르게 작동하는지 확인하세요.**  
   **Create GUI elements according to the script and test to ensure that all components are functioning correctly.**
